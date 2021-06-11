@@ -1,0 +1,24 @@
+.vscode/
+
+src/bash/min-perl-wrapp/tmp/
+
+# bash temp files
+/src/bash/min-perl-wrapp/tmp/
+
+# the data 
+dat/xls/in/in.xlsx
+dat/out/out.txt
+
+#perl
+**/autosplit.ix
+
+
+#vim
+**/*.swp
+
+# misc
+**/.DS_Store
+node_modules
+dat/log
+.env
+
